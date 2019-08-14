@@ -7,6 +7,14 @@ const availableSections = {
         'subsection1',
         'subsection2'
       ]
+    },
+    { id: 'section4' },
+    {
+      id: 'section5', subsectionIds: [
+        'subsection3',
+        'subsection4',
+        'subsection5'
+      ]
     }
   ],
   2: [
